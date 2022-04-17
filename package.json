@@ -1,0 +1,27 @@
+{
+  "name": "forum-api",
+  "version": "1.0.0",
+  "description": "api rest to get forum's feed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "forum",
+    "feed",
+    "posts"
+  ],
+  "author": "Javier Blanco",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "flat": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
