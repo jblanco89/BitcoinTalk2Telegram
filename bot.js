@@ -9,7 +9,7 @@ const api = new TG({
 })
 
 const channel = -1000000000 // your channel, group or megagroup
-const bitcointalk_URL = 'https://BitcoinTalkForumAPI.jblanco89.repl.co';
+const bitcointalk_URL = 'https://BitcoinTalk.xxxxxxxx.io';
 
 
 function getIds(url){
