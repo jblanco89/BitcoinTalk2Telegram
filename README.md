@@ -34,4 +34,5 @@ If you want to see how this bot works, join `@bitcoinTalkChannel`. This is an un
 ## API LINK
 BitcoinTalk does not have an official REST API from which to retrieve posts. As a result, I have set up an Unofficial API where the last 760 threads have been posted, but it is not public yet. I hope to set up free access to it soon. 
 
-
+## 📝 LICENSE
+This project is [MIT](https://github.com/jblanco89/BitcoinTalk2Telegram/blob/main/LICENSE) licensed.
